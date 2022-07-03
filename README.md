@@ -1,2 +1,2 @@
 # FashionMNIST-using-CNN
-Repository for the classification of Fashion MNIST dataset using 2D convolutional neural network 
+Repository for the classification of Fashion MNIST dataset using 2D convolutional neural network. FahionMNIST is a dataset of Zalando's article images. The dataset consists of 60000 training images and 10000 testing images. Each image is a 28x28 grayscale image that is associated with a class label which ranges from T-shirts/Tops to Ankle Boots. The dataset is classified using 2D convolutional neural network with 98% training accuracy and 91% test accuracy. 
